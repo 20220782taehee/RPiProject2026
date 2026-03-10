@@ -4,3 +4,7 @@ Software part 담당
 - name1
 
  hardware part 담당
+- name2
+
+distribution
+
