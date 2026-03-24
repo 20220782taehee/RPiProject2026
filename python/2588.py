@@ -1,7 +1,6 @@
-A, B= input().split()
 
-A= int(A)
-B= int(B)
+A= int(input())
+B= int(input())
 
 print(A*(B%10))
 print(A*((B//10)%10))
